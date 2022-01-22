@@ -1,5 +1,6 @@
 {
   "name": "example",
+  "homepage": "https://github647.github.io/vue-test",
   "version": "0.1.0",
   "private": true,
   "scripts": {
